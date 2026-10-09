@@ -1,0 +1,16 @@
+# secrets
+.env
+*.env
+!*.env.example
+
+# twitter scraper login data
+src/collection/twitter/accounts.db
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# data / notebooks junk
+.ipynb_checkpoints/

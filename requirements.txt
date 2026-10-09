@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+twscrape
+google-play-scraper
